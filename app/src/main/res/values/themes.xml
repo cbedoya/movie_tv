@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.WGTest" parent="@style/Theme.Leanback" />
+</resources>
